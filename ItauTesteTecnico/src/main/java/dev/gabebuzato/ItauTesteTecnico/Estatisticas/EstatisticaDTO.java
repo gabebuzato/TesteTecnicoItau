@@ -1,8 +1,10 @@
-package dev.gabebuzato.ItauTesteTecnico;
+package dev.gabebuzato.ItauTesteTecnico.Estatisticas;
 
 import lombok.Getter;
+import lombok.Setter;
 
 @Getter
+@Setter
 public class EstatisticaDTO {
     private Long count;
     private Double sum;
