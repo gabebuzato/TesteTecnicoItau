@@ -33,6 +33,6 @@ public class TransacoesController {
     @DeleteMapping("/deletar")
     public ResponseEntity deletar(){
         transacaoRepository.deletarDados();
-        return ResponseEntity.ok().build();
+        return ResponseEntity.status(HttpStatus.OK).build();
     }
 }
