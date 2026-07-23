@@ -1,10 +1,9 @@
-package dev.gabebuzato.ItauTesteTecnico;
+package dev.gabebuzato.ItauTesteTecnico.Transacoes;
 
 import dev.gabebuzato.ItauTesteTecnico.Estatisticas.EstatisticaDTO;
 
 import lombok.Getter;
 
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 
 import java.time.OffsetDateTime;

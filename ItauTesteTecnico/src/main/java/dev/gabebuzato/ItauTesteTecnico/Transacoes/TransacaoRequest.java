@@ -1,4 +1,4 @@
-package dev.gabebuzato.ItauTesteTecnico;
+package dev.gabebuzato.ItauTesteTecnico.Transacoes;
 import jakarta.validation.constraints.NotNull;
 import jakarta.validation.constraints.Positive;
 import lombok.AllArgsConstructor;

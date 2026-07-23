@@ -1,4 +1,4 @@
-package dev.gabebuzato.ItauTesteTecnico;
+package dev.gabebuzato.ItauTesteTecnico.Transacoes;
 
 import dev.gabebuzato.ItauTesteTecnico.Docs.TrasacaoControllerDoc;
 import lombok.extern.slf4j.Slf4j;

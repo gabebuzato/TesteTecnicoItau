@@ -1,4 +1,4 @@
-package dev.gabebuzato.ItauTesteTecnico;
+package dev.gabebuzato.ItauTesteTecnico.Transacoes;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
